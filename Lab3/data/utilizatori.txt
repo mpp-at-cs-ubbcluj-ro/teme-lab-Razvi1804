@@ -1,5 +1,0 @@
-98;Stefan;Berindeie
-99;Paul;Berinde
-4;Alexandra;d
-5;John;e
-9;Mihai;Runceanu
